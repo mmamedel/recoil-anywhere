@@ -1,0 +1,23 @@
+{
+  "name": "recoil-anywhere",
+  "version": "0.1.0",
+  "description": "Recoil.js additions to enable to use it anywhere, not just inside React hooks",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamedel/recoil-anywhere.git"
+  },
+  "author": "Mateus Lage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamedel/recoil-anywhere/issues"
+  },
+  "homepage": "https://github.com/mmamedel/recoil-anywhere#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "recoil": "^0.1.2"
+  }
+}
