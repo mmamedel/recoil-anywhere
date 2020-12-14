@@ -18,7 +18,7 @@
     "url": "https://github.com/mmamedel/recoil-anywhere/issues"
   },
   "homepage": "https://github.com/mmamedel/recoil-anywhere#readme",
-  "peerDependencies": {
+  "dependencies": {
     "react": "^17.0.1",
     "recoil": "^0.1.2"
   },
